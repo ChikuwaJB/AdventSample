@@ -1,0 +1,9 @@
+Package: com.chikuwa.advent-sample
+Name: Advent Sample Preference
+Depends: preferenceloader
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Advent Sample
+Maintainer: Chikuwa
+Author: Chikuwa
+Section: Advent

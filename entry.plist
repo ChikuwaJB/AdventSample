@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = AdventSample;
+	cell = PSLinkCell;
+	detail = AdventSampleListController;
+	icon = AdventSample.png;
+	isController = 1;
+	label = AdventSample;
+    };
+}
